@@ -90,7 +90,7 @@ var APP_DATA = {
           "yaw": 1.1566813647823384,
           "pitch": 0.10414251786570006,
           "rotation": 0.7853981633974483,
-          "target": "4-31-oikea-kaytava-paaty"
+          "target": "8-4-oikea-takakaytava"
         },
         {
           "yaw": -0.17116627657891037,
